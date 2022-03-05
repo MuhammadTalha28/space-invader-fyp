@@ -32,7 +32,10 @@ To setup this project locally on your computer follow the steps below.
   ```sh
   pip install pygame
   ```
-
-
-
 <p align="right">(<a href="#top">Top</a>)</p>
+Also there is setting mode in this by which we can change the music and sound volume
+just as below:
+
+![setting](https://user-images.githubusercontent.com/99478620/156881822-c8054885-eb36-4721-a332-b8b63fa0f5dc.PNG)
+
+
