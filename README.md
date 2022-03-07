@@ -33,6 +33,10 @@ To setup this project locally on your computer follow the steps below.
   pip install pygame
   ```
 <p align="right">(<a href="#top">Top</a>)</p>
+
+![main menu of projrct](https://user-images.githubusercontent.com/99478620/157053247-cb68b564-ab49-4f97-9ac5-a657827d3619.PNG)
+There is main menu where you can easily select differents  modes 
+
 Also there is setting mode in this by which we can change the music and sound volume
 just as below:
 
